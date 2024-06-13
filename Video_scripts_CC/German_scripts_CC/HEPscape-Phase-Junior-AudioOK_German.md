@@ -85,7 +85,13 @@ Ok, lasst uns den Knopf drücken um das Experiment zu starten. Ihr findet den Kn
 
 Setting: conference room with slide in the backdrop
 
-Und so, letztendlich, wie ich es euch gesagt habe, haben wir das Higgs boson gefunden mit einer Masse von... mit einer Masse von... Entschuldigt mich einen Moment. Ich muss kurz telefonieren.
+Und so, letztendlich, wie ich es euch gesagt habe, haben wir das Higgs boson gefunden mit einer Masse von... mit einer Masse von... Entschuldigt mich einen Moment. Ich muss kurz telefonieren my colleague Kaare, and we have to speak English.
+
+[dial phone and ring, about 5 seconds]
+
+[on stage]: “Hi Kaare, have you finished the data analysis for the Higgs boson mass?” [Kaare]: “We’ve not finished the data analysis yet, but maybe the escape room participants have already done it?”
+
+[on stage]: Ok, so we are going to call them. Thanks Kaare!
 
 
 [Telefonklingeln, eta 5 Sekunden lang]
